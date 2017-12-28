@@ -1,3 +1,5 @@
 # GITOSCON- Github And Open Source Contribution
 
-This is an app meant for the purpose of educating and introducing individuals new to the field of software development and the open source committee. It is made using the combination of PolymerJS and Apache Cordova and is a hybrid mobile app.
+This is a multi-platform mobile application meant for the purpose of educating individuals who are new to the field of software development and open source contributions. 
+
+This hybrid mobile app has been made using the combination of PolymerJS and Apache Cordova.
